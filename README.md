@@ -3,8 +3,8 @@
   ## Jiyoung's Github 👋
   환영합니다.(●'◡'●)
 
-![jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoung2024&theme=ambient_gradient&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung2024)](https://github.com/anuraghazra/github-readme-stats)
+![jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoung2024&theme=solarized-light&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung2024&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <details>
@@ -59,4 +59,4 @@
 - [x] we are firends~~~😏<br>
 - [ ] yeeeeeeeeeeeeeeeeeeees~!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02303A&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3670&height=150&section=footer" />
