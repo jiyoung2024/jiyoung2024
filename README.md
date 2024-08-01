@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3670&height=150&section=header" />
-
   ## Jiyoung's Github 👋
   환영합니다.(●'◡'●)
 
@@ -58,5 +56,3 @@
 #### 📌*Follow me*📍
 - [x] we are firends~~~😏<br>
 - [ ] yeeeeeeeeeeeeeeeeeeees~!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3670&height=150&section=footer" />
