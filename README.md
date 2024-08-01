@@ -53,6 +53,6 @@
 </details>
 
 
-#### 📌*Follow me*📍
+#### 📌*Follow me*
 - [x] we are firends~~~😏<br>
 - [ ] yeeeeeeeeeeeeeeeeeeees~!
